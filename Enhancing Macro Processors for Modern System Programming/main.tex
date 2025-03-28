@@ -1,0 +1,253 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\mode<presentation>
+
+%\newif\ifbeamer@secheader
+%\beamer@secheaderfalse
+
+%\DeclareOptionBeamer{secheader}{\beamer@secheadertrue}
+\ProcessOptionsBeamer
+
+\setbeamertemplate{navigation symbols}{} % Removes navigation buttons
+
+
+\useoutertheme[footline=authorinstitutetitle,subsection=false]{smoothbars}
+\makeatletter
+% Custom footline setup
+\newcommand{\frameofframes}{/}
+\newcommand{\setframeofframes}[1]{\renewcommand{\frameofframes}{#1}}
+
+\setbeamertemplate{footline} 
+{%
+    \begin{beamercolorbox}[colsep=1.5pt]{upper separation line foot}
+    \end{beamercolorbox}
+    \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+      leftskip=.3cm,rightskip=.3cm plus1fil]{author in head/foot}%
+      \leavevmode{\usebeamerfont{author in head/foot}\insertshortauthor}%
+      \hfill%
+      {\usebeamerfont{institute in head/foot}\usebeamercolor[fg]{institute in head/foot}\insertshortinstitute}%
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+      leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+      {\usebeamerfont{title in head/foot}\insertshorttitle}%
+      \hfill%
+      {\usebeamerfont{frame number}\usebeamercolor[fg]{frame number}\insertframenumber~\frameofframes~\inserttotalframenumber}
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[colsep=1.5pt]{lower separation line foot}
+    \end{beamercolorbox}
+    %\hfill \includegraphics[width=0.1\linewidth]{logo.jpg} % Add this line to include the logo
+}
+\makeatother
+
+% Theme settings
+\useinnertheme{circles}
+
+% Color customizations
+\xdefinecolor{shisu}{rgb}{0,0.384,0.675}  % RGB #82318E
+\setbeamercolor{footline}{bg=shisu}
+\setbeamercolor{frametitle}{bg=shisu,fg=white}
+\setbeamercolor{title}{bg=shisu}
+\setbeamerfont{frametitle}{size=\large}
+
+% Bibliography and caption settings
+\setbeamertemplate{bibliography item}[text]
+\setbeamertemplate{caption}[numbered]
+
+% Color palettes
+\setbeamercolor{palette primary}{use=structure,fg=white,bg=structure.fg}
+\setbeamercolor{palette secondary}{use=structure,fg=white,bg=structure.fg!75!black}
+\setbeamercolor{palette tertiary}{use=structure,fg=white,bg=structure.fg!50!black}
+\setbeamercolor{palette quaternary}{fg=white,bg=structure.fg!50!black}
+\setbeamercolor{titlelike}{parent=palette primary}
+
+% Block and sidebar colors
+\setbeamercolor{block title}{bg=shisu,fg=white}
+\setbeamercolor*{block title example}{use={normal text,example text},bg=white,fg=shisu}
+\setbeamercolor{item projected}{fg=white}
+\setbeamercolor{sidebar}{bg=shisu}
+\setbeamercolor{structure}{fg=shisu}
+
+% Section and subsection styling
+\setbeamercolor{section in sidebar}{fg=brown}
+\setbeamercolor{subsection in sidebar}{fg=brown}
+
+%\iffalse
+% Table of contents at the start of sections/subsections
+\AtBeginSection[]{
+	\begin{frame}
+		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+	\end{frame}
+}
+\AtBeginSubsection[]{
+	\begin{frame}
+		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+	\end{frame}
+} 
+%\fi
+
+% Add logo overlay in the bottom-right corner
+\addtobeamertemplate{background}{%
+    \begin{tikzpicture}[remember picture,overlay]
+        \node[anchor=south east,xshift= 4pt,yshift=15pt] at (current page.south east) {\includegraphics[width=0.1\linewidth]{logo.jpg}};
+    \end{tikzpicture}
+}
+
+\title{Enhancing Macro Processors for Modern System Programming}
+\author{Gandholi Sarat}
+\date{\today}
+
+\begin{document}
+
+\frame{\titlepage}
+
+% New Slide: Research Problem Overview
+\begin{frame}{Problems Overview}
+    \textbf{1. Optimizing Two-Pass Assemblers for Performance and Memory Efficiency}
+    \begin{itemize}
+        \item Traditional two-pass assemblers scan code multiple times, increasing memory usage and processing time.
+        \item Optimization techniques focus on reducing disk I/O and improving symbol resolution speed.
+    \end{itemize}
+    \vspace{0.3cm}
+    \textbf{2. Improving Linker and Loader Strategies for Dynamic Libraries}
+    \begin{itemize}
+        \item Dynamic linking reduces binary size but introduces runtime overhead.
+        \item Research focuses on caching, prefetching, and improving security (e.g., DLL hijacking prevention).
+    \end{itemize}
+    \vspace{0.3cm}
+    \textbf{3. Enhancing Macro Processors for Modern System Programming}
+    \begin{itemize}
+        \item ✅ \textbf{Selected this }
+    \end{itemize}
+\end{frame}
+
+% Slide 1: Introduction
+\begin{frame}{Introduction}
+    \textbf{What is a Macro Processor?}
+    \begin{itemize}
+        \item Automates code substitution during preprocessing.
+        \item Enables reusable and concise code.
+        \item Improves readability and maintainability.
+    \end{itemize}
+    \textbf{Why are Macro Processors Important?}
+    \begin{itemize}
+        \item Used in assemblers, compilers, and scripting languages.
+        \item Forms the basis of C preprocessor (\#define macros).
+        \item Essential for low-level systems programming.
+    \end{itemize}
+\end{frame}
+
+% Slide 2: Problem Definition
+\begin{frame}{Problem Definition}
+    \textbf{Challenges in Traditional Macro Processors}
+    \begin{itemize}
+        \item Limited language support.
+        \item Complex build systems.
+        \item Lack of debugging support.
+        \item Performance overhead.
+        \item Limited extensibility.
+    \end{itemize}
+    \textbf{Research Question:}
+    \begin{block}{}
+        "How can macro processors be improved to support modern programming paradigms while maintaining efficiency and flexibility?"
+    \end{block}
+\end{frame}
+
+% Slide 3: Solution Overview
+\begin{frame}{Proposed Solutions}
+    \begin{itemize}
+        \item \textbf{Solution 1:} Language-agnostic macro processor.
+        \item \textbf{Solution 2:} Optimized performance with caching and parallel processing.
+    \end{itemize}
+\end{frame}
+
+% Slide 4: Solution 1 - Language-Agnostic Macro Processor
+\begin{frame}{Solution 1: Language-Agnostic Macro Processor}
+    \textbf{What is it?}
+    \begin{itemize}
+        \item A macro processor that can work across multiple programming languages.
+        \item Uses Abstract Syntax Trees (ASTs) instead of simple text substitution.
+    \end{itemize}
+    \textbf{Advantages}
+    \begin{itemize}
+        \item Improves flexibility and portability.
+        \item Reduces syntax errors compared to basic text-based macro expansion.
+    \end{itemize}
+\end{frame}
+
+% Slide 6: Solution 3 - Performance Optimization
+\begin{frame}{Solution 2: Optimized Performance with Caching}
+    \textbf{What is it?}
+    \begin{itemize}
+        \item Uses caching and parallel processing to improve macro expansion speed.
+        \item Reduces redundant computations during preprocessing.
+    \end{itemize}
+    \textbf{Advantages}
+    \begin{itemize}
+        \item Decreases compilation time for large codebases.
+        \item Optimizes CPU and memory usage.
+    \end{itemize}
+    \textbf{Implementation}
+    \begin{itemize}
+        \item Use memoization to store frequently expanded macros.
+        \item Implement multi-threaded macro expansion.
+        \item Leverage GPUs for large-scale macro processing.
+    \end{itemize}
+\end{frame}
+% Slide 5: Overview of Compile-Time Function Memoization
+\begin{frame}{Compile-Time Function Memoization Overview}
+    \textbf{Core Idea:}
+    \begin{itemize}
+        \item Memoization saves results of function executions to avoid redundant computations.
+        \item This paper proposes applying memoization at compile-time instead of runtime.
+    \end{itemize}
+    \vspace{0.3cm}
+    \textbf{What’s New?}
+    \begin{itemize}
+        \item Identifies memoizable functions during compilation.
+        \item Generates optimized memoization wrappers integrated into the compiled code.
+    \end{itemize}
+\end{frame}
+
+% Slide 6: Key Features of Compile-Time Function Memoization
+\begin{frame}{Key Features of Compile-Time Function Memoization}
+    \begin{itemize}
+        \item \textbf{Broader Applicability:} Works for all types of functions, including user-defined ones.
+        \item \textbf{Inlining for Efficiency:} Memoization wrappers are designed to be inlined, reducing overhead.
+        \item \textbf{Handles Complex Scenarios:} Works with global variables, pointers, and constants.
+        \item \textbf{Automatic Identification:} Suitable functions are detected automatically during compilation.
+    \end{itemize}
+\end{frame}
+
+% Slide 7: Implementation of Compile-Time Memoization in LLVM
+\begin{frame}{Implementation in LLVM}
+    \textbf{How is it implemented?}
+    \begin{itemize}
+        \item Memoization is added as an optimization pass in the LLVM framework.
+        \item \textbf{Step 1:} Analyze functions to identify memoizable candidates.
+        \item \textbf{Step 2:} Generate memoization wrappers for each identified function.
+        \item \textbf{Step 3:} Replace function calls with calls to memoization wrappers.
+    \end{itemize}
+    \vspace{0.3cm}
+    \textbf{Memoization Wrapper:}
+    \begin{itemize}
+        \item Checks a table for previously computed results.
+        \item If not found, computes the result and stores it.
+    \end{itemize}
+\end{frame}
+
+% Slide 8: Benefits of Compile-Time Function Memoization
+\begin{frame}{Benefits of Compile-Time Function Memoization}
+    \begin{itemize}
+        \item \textbf{Performance Gains:} Avoids redundant computations and speeds up execution.
+        \item \textbf{Reduced Overhead:} Inlining minimizes the cost of memoization.
+        \item \textbf{Hardware Extension Proposal:} Suggests optional hardware support for further performance improvements.
+    \end{itemize}
+\end{frame}
+
+
+\end{document}
+
