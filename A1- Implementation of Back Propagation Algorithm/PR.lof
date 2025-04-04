@@ -1,0 +1,69 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Comparison of datasets generated with different seeds and variance values}}{14}{figure.caption.4}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Dataset (X1, y1) - s=2, seed=0}}{14}{figure.caption.4}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Dataset (X2, y2) - s=2, seed=10}}{14}{figure.caption.4}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Dataset (X3, y3) - s=5, seed=0}}{14}{figure.caption.4}%
+\contentsline {subfigure}{\numberline {d}{\ignorespaces Dataset (X4, y4) - s=5, seed=10}}{14}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for 2 first layer nodes}}{15}{figure.caption.5}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result of 2 first layer nodes}}{15}{figure.caption.5}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{15}{figure.caption.5}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{15}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for 4 first layer nodes}}{16}{figure.caption.6}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result of 4 first layer nodes}}{16}{figure.caption.6}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{16}{figure.caption.6}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{16}{figure.caption.6}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for 15 first layer nodes}}{17}{figure.caption.7}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result of 15 first layer nodes}}{17}{figure.caption.7}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{17}{figure.caption.7}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{17}{figure.caption.7}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.01 for 300 iterations}}{18}{figure.caption.8}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.01 for 300 iterations}}{18}{figure.caption.8}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{18}{figure.caption.8}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{18}{figure.caption.8}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.001 for 300 iterations}}{19}{figure.caption.9}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.001 for 300 iterations}}{19}{figure.caption.9}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{19}{figure.caption.9}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{19}{figure.caption.9}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.01 for 1000 iterations}}{20}{figure.caption.10}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.01 for 1000 iterations}}{20}{figure.caption.10}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{20}{figure.caption.10}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{20}{figure.caption.10}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.001 for 1000 iterations}}{21}{figure.caption.11}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.01 for 1000 iterations}}{21}{figure.caption.11}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{21}{figure.caption.11}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{21}{figure.caption.11}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Comparison of decision regions and boundaries for training and test sets using adaptive learning rate backpropagation}}{22}{figure.caption.12}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result}}{22}{figure.caption.12}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{22}{figure.caption.12}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{22}{figure.caption.12}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for 2 first layer nodes}}{24}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result of 2 first layer nodes}}{24}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{24}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{24}{figure.caption.13}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for 4 first layer nodes}}{25}{figure.caption.14}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result of 4 first layer nodes}}{25}{figure.caption.14}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{25}{figure.caption.14}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{25}{figure.caption.14}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for 15 first layer nodes}}{26}{figure.caption.15}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result of 15 first layer nodes}}{26}{figure.caption.15}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{26}{figure.caption.15}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{26}{figure.caption.15}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.01 for 300 iterations}}{27}{figure.caption.16}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.01 for 300 iterations}}{27}{figure.caption.16}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{27}{figure.caption.16}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{27}{figure.caption.16}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.001 for 300 iterations}}{28}{figure.caption.17}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.001 for 300 iterations}}{28}{figure.caption.17}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{28}{figure.caption.17}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{28}{figure.caption.17}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.01 for 1000 iterations}}{29}{figure.caption.18}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.01 for 1000 iterations}}{29}{figure.caption.18}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{29}{figure.caption.18}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{29}{figure.caption.18}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Comparison of decision regions and boundaries for training and test sets for lr = 0.001 for 1000 iterations}}{30}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces lr = 0.01 for 1000 iterations}}{30}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{30}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{30}{figure.caption.19}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Comparison of decision regions and boundaries for training and test sets using adaptive learning rate backpropagation}}{31}{figure.caption.20}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Result}}{31}{figure.caption.20}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Training set decision boundary}}{31}{figure.caption.20}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Test set decision boundary}}{31}{figure.caption.20}%

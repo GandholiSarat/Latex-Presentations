@@ -1,0 +1,727 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  4 APR 2025 11:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"g:/2nd Year/PR Report/PR.tex"
+(g:/2nd Year/PR Report/PR.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count270
+\lst@gtempboxa=\box52
+\lst@token=\toks18
+\lst@length=\count271
+\lst@currlwidth=\dimen144
+\lst@column=\count272
+\lst@pos=\count273
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count274
+\lst@lineno=\count275
+\lst@maxwidth=\dimen147
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count276
+\lst@skipnumbers=\count277
+\lst@framebox=\box53
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen148
+)) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count278
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count279
+\leftroot@=\count280
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count281
+\DOTSCASE@=\count282
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count283
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count284
+\dotsspace@=\muskip17
+\c@parentequation=\count285
+\dspbrk@lvl=\count286
+\tag@help=\toks20
+\row@=\count287
+\column@=\count288
+\maxfields@=\count289
+\andhelp@=\toks21
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
+Package caption Info: listings package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count292
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count293
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count294
+\float@exts=\toks24
+\float@box=\box56
+\@float@everytoks=\toks25
+\@floatcapt=\box57
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count295
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count300
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen166
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip54
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count307
+\l__pdf_internal_box=\box58
+) (PR.aux)
+\openout1 = `PR.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen169
+\scratchbox=\box59
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen170
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks27
+) (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count314
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 35.
+ (PR.out) (PR.out)
+\@outlinefile=\write3
+\openout3 = `PR.out'.
+
+ (PR.toc)
+\tf@toc=\write4
+\openout4 = `PR.toc'.
+
+ (PR.lof
+
+[1
+
+{C:/Users/MSI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2])
+\tf@lof=\write5
+\openout5 = `PR.lof'.
+
+
+
+[3] (C:\Users\MSI\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+<PR dataset.png, id=418, 395.3169pt x 395.3169pt>
+File: PR dataset.png Graphic file (type png)
+<use PR dataset.png>
+Package pdftex.def Info: PR dataset.png  used on input line 354.
+(pdftex.def)             Requested size: 175.49881pt x 175.49623pt.
+<PR dataset2.png, id=420, 395.3169pt x 395.3169pt>
+File: PR dataset2.png Graphic file (type png)
+<use PR dataset2.png>
+Package pdftex.def Info: PR dataset2.png  used on input line 361.
+(pdftex.def)             Requested size: 175.49881pt x 175.49623pt.
+<PR dataset3.png, id=421, 392.4261pt x 395.3169pt>
+File: PR dataset3.png Graphic file (type png)
+<use PR dataset3.png>
+Package pdftex.def Info: PR dataset3.png  used on input line 368.
+(pdftex.def)             Requested size: 175.49881pt x 176.78708pt.
+<PR dataset4.png, id=422, 392.4261pt x 395.3169pt>
+File: PR dataset4.png Graphic file (type png)
+<use PR dataset4.png>
+Package pdftex.def Info: PR dataset4.png  used on input line 375.
+(pdftex.def)             Requested size: 175.49881pt x 176.78708pt.
+Package hyperref Info: bookmark level for unknown subfigure defaults to 0 on input line 380.
+
+
+[13]
+
+[14 <./PR dataset.png> <./PR dataset2.png> <./PR dataset3.png> <./PR dataset4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 388--395
+
+ []
+
+<2.2_2_r.png, id=451, 374.14781pt x 189.70876pt>
+File: 2.2_2_r.png Graphic file (type png)
+<use 2.2_2_r.png>
+Package pdftex.def Info: 2.2_2_r.png  used on input line 402.
+(pdftex.def)             Requested size: 195.0pt x 98.87201pt.
+<2.2_2_Train.png, id=452, 513.8397pt x 395.3169pt>
+File: 2.2_2_Train.png Graphic file (type png)
+<use 2.2_2_Train.png>
+Package pdftex.def Info: 2.2_2_Train.png  used on input line 407.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.2_2_Test.png, id=453, 513.8397pt x 395.3169pt>
+File: 2.2_2_Test.png Graphic file (type png)
+<use 2.2_2_Test.png>
+Package pdftex.def Info: 2.2_2_Test.png  used on input line 413.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.2_4_r.png, id=454, 391.4625pt x 188.20313pt>
+File: 2.2_4_r.png Graphic file (type png)
+<use 2.2_4_r.png>
+Package pdftex.def Info: 2.2_4_r.png  used on input line 426.
+(pdftex.def)             Requested size: 195.0pt x 93.75096pt.
+<2.2_4_Train.png, id=455, 513.8397pt x 395.3169pt>
+File: 2.2_4_Train.png Graphic file (type png)
+<use 2.2_4_Train.png>
+Package pdftex.def Info: 2.2_4_Train.png  used on input line 431.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.2_4_Test.png, id=456, 513.8397pt x 395.3169pt>
+File: 2.2_4_Test.png Graphic file (type png)
+<use 2.2_4_Test.png>
+Package pdftex.def Info: 2.2_4_Test.png  used on input line 437.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+
+
+[15 <./2.2_2_r.png> <./2.2_2_Train.png> <./2.2_2_Test.png>]
+<2.2_15_r.png, id=464, 356.83313pt x 185.94469pt>
+File: 2.2_15_r.png Graphic file (type png)
+<use 2.2_15_r.png>
+Package pdftex.def Info: 2.2_15_r.png  used on input line 450.
+(pdftex.def)             Requested size: 195.0pt x 101.61447pt.
+<2.2_15_Train.png, id=465, 513.8397pt x 395.3169pt>
+File: 2.2_15_Train.png Graphic file (type png)
+<use 2.2_15_Train.png>
+Package pdftex.def Info: 2.2_15_Train.png  used on input line 455.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.2_15_Test.png, id=466, 513.8397pt x 395.3169pt>
+File: 2.2_15_Test.png Graphic file (type png)
+<use 2.2_15_Test.png>
+Package pdftex.def Info: 2.2_15_Test.png  used on input line 461.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+
+
+[16 <./2.2_4_r.png> <./2.2_4_Train.png> <./2.2_4_Test.png>]
+
+[17 <./2.2_15_r.png> <./2.2_15_Train.png> <./2.2_15_Test.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 482--487
+
+ []
+
+<2.3_.01_300_r.png, id=481, 386.19281pt x 74.52844pt>
+File: 2.3_.01_300_r.png Graphic file (type png)
+<use 2.3_.01_300_r.png>
+Package pdftex.def Info: 2.3_.01_300_r.png  used on input line 494.
+(pdftex.def)             Requested size: 195.0pt x 37.63144pt.
+<2.3_.01_300_Train.png, id=482, 513.8397pt x 395.3169pt>
+File: 2.3_.01_300_Train.png Graphic file (type png)
+<use 2.3_.01_300_Train.png>
+Package pdftex.def Info: 2.3_.01_300_Train.png  used on input line 499.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.3_.01_300_Test.png, id=483, 513.8397pt x 395.3169pt>
+File: 2.3_.01_300_Test.png Graphic file (type png)
+<use 2.3_.01_300_Test.png>
+Package pdftex.def Info: 2.3_.01_300_Test.png  used on input line 505.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.3_.001_300_r.png, id=484, 373.395pt x 73.77562pt>
+File: 2.3_.001_300_r.png Graphic file (type png)
+<use 2.3_.001_300_r.png>
+Package pdftex.def Info: 2.3_.001_300_r.png  used on input line 518.
+(pdftex.def)             Requested size: 195.0pt x 38.52788pt.
+<2.3_.001_300_Train.png, id=485, 513.8397pt x 395.3169pt>
+File: 2.3_.001_300_Train.png Graphic file (type png)
+<use 2.3_.001_300_Train.png>
+Package pdftex.def Info: 2.3_.001_300_Train.png  used on input line 523.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.3_.001_300_Test.png, id=486, 513.8397pt x 395.3169pt>
+File: 2.3_.001_300_Test.png Graphic file (type png)
+<use 2.3_.001_300_Test.png>
+Package pdftex.def Info: 2.3_.001_300_Test.png  used on input line 529.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+
+
+[18 <./2.3_.01_300_r.png> <./2.3_.01_300_Train.png> <./2.3_.01_300_Test.png>]
+<2.3_.01_1000_r.png, id=494, 373.395pt x 188.95593pt>
+File: 2.3_.01_1000_r.png Graphic file (type png)
+<use 2.3_.01_1000_r.png>
+Package pdftex.def Info: 2.3_.01_1000_r.png  used on input line 542.
+(pdftex.def)             Requested size: 195.0pt x 98.67859pt.
+<2.3_.01_1000_Train.png, id=495, 513.8397pt x 395.3169pt>
+File: 2.3_.01_1000_Train.png Graphic file (type png)
+<use 2.3_.01_1000_Train.png>
+Package pdftex.def Info: 2.3_.01_1000_Train.png  used on input line 547.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.3_.01_1000_Test.png, id=496, 513.8397pt x 395.3169pt>
+File: 2.3_.01_1000_Test.png Graphic file (type png)
+<use 2.3_.01_1000_Test.png>
+Package pdftex.def Info: 2.3_.01_1000_Test.png  used on input line 553.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+
+
+[19 <./2.3_.001_300_r.png> <./2.3_.001_300_Train.png> <./2.3_.001_300_Test.png>]
+<2.3_.001_1000_r.png, id=505, 376.40625pt x 186.6975pt>
+File: 2.3_.001_1000_r.png Graphic file (type png)
+<use 2.3_.001_1000_r.png>
+Package pdftex.def Info: 2.3_.001_1000_r.png  used on input line 566.
+(pdftex.def)             Requested size: 195.0pt x 96.72145pt.
+<2.3_.001_1000_Train.png, id=506, 513.8397pt x 395.3169pt>
+File: 2.3_.001_1000_Train.png Graphic file (type png)
+<use 2.3_.001_1000_Train.png>
+Package pdftex.def Info: 2.3_.001_1000_Train.png  used on input line 571.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.3_.001_1000_Test.png, id=507, 513.8397pt x 395.3169pt>
+File: 2.3_.001_1000_Test.png Graphic file (type png)
+<use 2.3_.001_1000_Test.png>
+Package pdftex.def Info: 2.3_.001_1000_Test.png  used on input line 577.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+
+
+[20 <./2.3_.01_1000_r.png> <./2.3_.01_1000_Train.png> <./2.3_.01_1000_Test.png>]
+
+[21 <./2.3_.001_1000_r.png> <./2.3_.001_1000_Train.png> <./2.3_.001_1000_Test.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 599--603
+
+ []
+
+<2.4_r.png, id=522, 372.64218pt x 76.78688pt>
+File: 2.4_r.png Graphic file (type png)
+<use 2.4_r.png>
+Package pdftex.def Info: 2.4_r.png  used on input line 610.
+(pdftex.def)             Requested size: 195.0pt x 40.1813pt.
+<2.4_Train.png, id=523, 513.8397pt x 395.3169pt>
+File: 2.4_Train.png Graphic file (type png)
+<use 2.4_Train.png>
+Package pdftex.def Info: 2.4_Train.png  used on input line 615.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+<2.4_Test.png, id=524, 513.8397pt x 395.3169pt>
+File: 2.4_Test.png Graphic file (type png)
+<use 2.4_Test.png>
+Package pdftex.def Info: 2.4_Test.png  used on input line 621.
+(pdftex.def)             Requested size: 175.49881pt x 135.0152pt.
+
+
+[22 <./2.4_r.png> <./2.4_Train.png> <./2.4_Test.png>]
+
+[23]
+<3.2_2_r.png, id=537, 356.0803pt x 182.93344pt>
+File: 3.2_2_r.png Graphic file (type png)
+<use 3.2_2_r.png>
+Package pdftex.def Info: 3.2_2_r.png  used on input line 639.
+(pdftex.def)             Requested size: 195.0pt x 100.17824pt.
+<3.2_2_Train.png, id=538, 504.4446pt x 395.3169pt>
+File: 3.2_2_Train.png Graphic file (type png)
+<use 3.2_2_Train.png>
+Package pdftex.def Info: 3.2_2_Train.png  used on input line 644.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.2_2_Test.png, id=539, 504.4446pt x 395.3169pt>
+File: 3.2_2_Test.png Graphic file (type png)
+<use 3.2_2_Test.png>
+Package pdftex.def Info: 3.2_2_Test.png  used on input line 650.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.2_4_r.png, id=540, 362.10281pt x 184.43906pt>
+File: 3.2_4_r.png Graphic file (type png)
+<use 3.2_4_r.png>
+Package pdftex.def Info: 3.2_4_r.png  used on input line 663.
+(pdftex.def)             Requested size: 195.0pt x 99.32542pt.
+<3.2_4_Train.png, id=541, 504.4446pt x 395.3169pt>
+File: 3.2_4_Train.png Graphic file (type png)
+<use 3.2_4_Train.png>
+Package pdftex.def Info: 3.2_4_Train.png  used on input line 668.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.2_4_Test.png, id=542, 504.4446pt x 395.3169pt>
+File: 3.2_4_Test.png Graphic file (type png)
+<use 3.2_4_Test.png>
+Package pdftex.def Info: 3.2_4_Test.png  used on input line 674.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+
+
+[24 <./3.2_2_r.png> <./3.2_2_Train.png> <./3.2_2_Test.png>]
+<3.2_15_r.png, id=550, 350.81062pt x 179.16937pt>
+File: 3.2_15_r.png Graphic file (type png)
+<use 3.2_15_r.png>
+Package pdftex.def Info: 3.2_15_r.png  used on input line 687.
+(pdftex.def)             Requested size: 195.0pt x 99.59326pt.
+<3.2_15_Train.png, id=551, 504.4446pt x 395.3169pt>
+File: 3.2_15_Train.png Graphic file (type png)
+<use 3.2_15_Train.png>
+Package pdftex.def Info: 3.2_15_Train.png  used on input line 692.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.2_15_Test.png, id=552, 504.4446pt x 395.3169pt>
+File: 3.2_15_Test.png Graphic file (type png)
+<use 3.2_15_Test.png>
+Package pdftex.def Info: 3.2_15_Test.png  used on input line 698.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+
+
+[25 <./3.2_4_r.png> <./3.2_4_Train.png> <./3.2_4_Test.png>]
+<3.3_.01_300_r.png, id=561, 359.09157pt x 76.03406pt>
+File: 3.3_.01_300_r.png Graphic file (type png)
+<use 3.3_.01_300_r.png>
+Package pdftex.def Info: 3.3_.01_300_r.png  used on input line 711.
+(pdftex.def)             Requested size: 195.0pt x 41.28981pt.
+<3.3_.01_300_Train.png, id=562, 504.4446pt x 395.3169pt>
+File: 3.3_.01_300_Train.png Graphic file (type png)
+<use 3.3_.01_300_Train.png>
+Package pdftex.def Info: 3.3_.01_300_Train.png  used on input line 716.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.3_.01_300_Test.png, id=563, 504.4446pt x 395.3169pt>
+File: 3.3_.01_300_Test.png Graphic file (type png)
+<use 3.3_.01_300_Test.png>
+Package pdftex.def Info: 3.3_.01_300_Test.png  used on input line 722.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+
+
+[26 <./3.2_15_r.png> <./3.2_15_Train.png> <./3.2_15_Test.png>]
+<3.3_.001_300_r.png, id=571, 361.35pt x 75.28125pt>
+File: 3.3_.001_300_r.png Graphic file (type png)
+<use 3.3_.001_300_r.png>
+Package pdftex.def Info: 3.3_.001_300_r.png  used on input line 735.
+(pdftex.def)             Requested size: 195.0pt x 40.62483pt.
+<3.3_.001_300_Train.png, id=572, 504.4446pt x 395.3169pt>
+File: 3.3_.001_300_Train.png Graphic file (type png)
+<use 3.3_.001_300_Train.png>
+Package pdftex.def Info: 3.3_.001_300_Train.png  used on input line 740.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.3_.001_300_Test.png, id=573, 504.4446pt x 395.3169pt>
+File: 3.3_.001_300_Test.png Graphic file (type png)
+<use 3.3_.001_300_Test.png>
+Package pdftex.def Info: 3.3_.001_300_Test.png  used on input line 746.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+
+
+[27 <./3.3_.01_300_r.png> <./3.3_.01_300_Train.png> <./3.3_.01_300_Test.png>]
+<3.3_.01_1000_r.png, id=581, 360.59718pt x 185.94469pt>
+File: 3.3_.01_1000_r.png Graphic file (type png)
+<use 3.3_.01_1000_r.png>
+Package pdftex.def Info: 3.3_.01_1000_r.png  used on input line 759.
+(pdftex.def)             Requested size: 195.0pt x 100.55331pt.
+<3.3_.01_1000_Train.png, id=582, 504.4446pt x 395.3169pt>
+File: 3.3_.01_1000_Train.png Graphic file (type png)
+<use 3.3_.01_1000_Train.png>
+Package pdftex.def Info: 3.3_.01_1000_Train.png  used on input line 764.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.3_.01_1000_Test.png, id=583, 504.4446pt x 395.3169pt>
+File: 3.3_.01_1000_Test.png Graphic file (type png)
+<use 3.3_.01_1000_Test.png>
+Package pdftex.def Info: 3.3_.01_1000_Test.png  used on input line 770.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+
+
+[28 <./3.3_.001_300_r.png> <./3.3_.001_300_Train.png> <./3.3_.001_300_Test.png>]
+<3.3_.001_1000_r.png, id=591, 356.0803pt x 184.43906pt>
+File: 3.3_.001_1000_r.png Graphic file (type png)
+<use 3.3_.001_1000_r.png>
+Package pdftex.def Info: 3.3_.001_1000_r.png  used on input line 783.
+(pdftex.def)             Requested size: 195.0pt x 101.00275pt.
+<3.3_.001_1000_Train.png, id=592, 504.4446pt x 395.3169pt>
+File: 3.3_.001_1000_Train.png Graphic file (type png)
+<use 3.3_.001_1000_Train.png>
+Package pdftex.def Info: 3.3_.001_1000_Train.png  used on input line 788.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.3_.001_1000_Test.png, id=593, 504.4446pt x 395.3169pt>
+File: 3.3_.001_1000_Test.png Graphic file (type png)
+<use 3.3_.001_1000_Test.png>
+Package pdftex.def Info: 3.3_.001_1000_Test.png  used on input line 794.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+
+
+[29 <./3.3_.01_1000_r.png> <./3.3_.01_1000_Train.png> <./3.3_.01_1000_Test.png>]
+<3.4_r.png, id=601, 360.59718pt x 74.52844pt>
+File: 3.4_r.png Graphic file (type png)
+<use 3.4_r.png>
+Package pdftex.def Info: 3.4_r.png  used on input line 807.
+(pdftex.def)             Requested size: 195.0pt x 40.30273pt.
+<3.4_Train.png, id=602, 504.4446pt x 395.3169pt>
+File: 3.4_Train.png Graphic file (type png)
+<use 3.4_Train.png>
+Package pdftex.def Info: 3.4_Train.png  used on input line 812.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+<3.4_Test.png, id=603, 504.4446pt x 395.3169pt>
+File: 3.4_Test.png Graphic file (type png)
+<use 3.4_Test.png>
+Package pdftex.def Info: 3.4_Test.png  used on input line 818.
+(pdftex.def)             Requested size: 175.49881pt x 137.53055pt.
+
+
+[30 <./3.3_.001_1000_r.png> <./3.3_.001_1000_Train.png> <./3.3_.001_1000_Test.png>]
+
+[31 <./3.4_r.png> <./3.4_Train.png> <./3.4_Test.png>] (PR.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `PR.out' has not changed.
+(rerunfilecheck)             Checksum: 2CAE5C27512D690FB2DC4B549C136196;2157.
+ ) 
+Here is how much of TeX's memory you used:
+ 13885 strings out of 473523
+ 216735 string characters out of 5715598
+ 1089545 words of memory out of 5000000
+ 36702 multiletter control sequences out of 15000+600000
+ 573052 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,9n,79p,609b,2052s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\MSI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/MSI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on PR.pdf (31 pages, 2604663 bytes).
+PDF statistics:
+ 1091 PDF objects out of 1200 (max. 8388607)
+ 269 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+
