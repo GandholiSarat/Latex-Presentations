@@ -1,0 +1,15 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Decision Boundary for SVM with Linear Kernel. \textbf {X-axis:} Mean Radius, \textbf {Y-axis:} Mean Texture.}}{15}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Decision Boundary for SVM with RBF Kernel. \textbf {X-axis:} Mean Radius, \textbf {Y-axis:} Mean Texture.}}{16}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Naive Bayes Model Performance Comparison}}{20}{figure.caption.14}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Multinomial Naive Bayes Confusion Matrix}}{21}{figure.caption.15}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Gaussian Naive Bayes Confusion Matrix}}{22}{figure.caption.16}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Bernoulli Naive Bayes Confusion Matrix}}{22}{figure.caption.17}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Confusion Matrix for Logistic Regression Model}}{42}{figure.caption.34}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Top 10 Most Important Features (L1 vs L2 Regularization)}}{43}{figure.caption.36}%
+\contentsline {figure}{\numberline {9}{\ignorespaces ROC Curve with AUC Score}}{44}{figure.caption.38}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Precision-Recall Curve vs Threshold}}{45}{figure.caption.40}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Confusion Matrices for Iris (left) and Wine (right)}}{54}{figure.caption.46}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Accuracy vs. Tree Depth for Iris and Wine Datasets}}{55}{figure.caption.47}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Accuracy Comparison: Single Tree vs. Bagging}}{55}{figure.caption.48}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Decision Tree Visualization – Iris Dataset}}{56}{figure.caption.49}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Decision Tree Visualization – Wine Dataset}}{56}{figure.caption.50}%

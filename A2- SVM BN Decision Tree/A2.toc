@@ -1,0 +1,55 @@
+\contentsline {section}{\numberline {1}Support Vector Machine (SVM) }{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Objective}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Dataset}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Support Vector Machine (SVM) Theory}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Approach}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Evaluation Metrics}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Results}{6}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Misclassification Analysis}{7}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Conclusion}{7}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Code Implementation}{8}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Output of Code}{11}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Plots}{15}{subsection.1.11}%
+\contentsline {section}{\numberline {2}Naive Bayes Classifier}{17}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objectives}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Dataset}{17}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Approach}{17}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Results}{18}{subsection.2.4}%
+\contentsline {paragraph}{Multinomial Naive Bayes\\}{18}{section*.11}%
+\contentsline {paragraph}{Gaussian Naive Baye\\}{19}{section*.12}%
+\contentsline {paragraph}{Bernoulli Naive Bayes\\}{19}{section*.13}%
+\contentsline {subsection}{\numberline {2.5}Most Predictive Features}{20}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Confusion Matrices}{21}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Comparison of Different Naive Bayes Variants}{23}{subsection.2.7}%
+\contentsline {paragraph}{Multinomial Naive Bayes:}{23}{section*.18}%
+\contentsline {paragraph}{Gaussian Naive Bayes:}{23}{section*.19}%
+\contentsline {paragraph}{Bernoulli Naive Bayes:}{23}{section*.20}%
+\contentsline {subsection}{\numberline {2.8}Conclusion}{23}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Code Implementation}{24}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Output of Code}{27}{subsection.2.10}%
+\contentsline {section}{\numberline {3}Logistic Regression}{30}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Objectives}{30}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Dataset}{30}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Approach}{30}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Discussion}{31}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Bias and Fairness Analysis}{32}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Results}{34}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Conclusion}{35}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Code Implementation}{35}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Output of Code}{39}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Plots}{42}{subsection.3.10}%
+\contentsline {section}{\numberline {4}Decision Tree Classifier}{46}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Objectives}{46}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Dataset}{46}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Approach}{46}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Results}{47}{subsection.4.4}%
+\contentsline {paragraph}{Decision Tree Classifier:}{47}{section*.41}%
+\contentsline {paragraph}{Bagging Ensemble vs. Single Tree Comparison:}{48}{section*.42}%
+\contentsline {subsection}{\numberline {4.5}Discussion}{48}{subsection.4.5}%
+\contentsline {paragraph}{Classification Accuracy and Metrics:}{48}{section*.43}%
+\contentsline {paragraph}{Tree Visualization and Interpretation:}{48}{section*.44}%
+\contentsline {paragraph}{Comparison Between Single Tree and Ensemble Approach:}{49}{section*.45}%
+\contentsline {subsection}{\numberline {4.6}Conclusion}{49}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Code Implementation}{49}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Output of Code}{53}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Plots}{54}{subsection.4.9}%
