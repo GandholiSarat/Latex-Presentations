@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Course Overview}{2}{0}{1}
+\beamer@sectionintoc {2}{Unit-wise Summary}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Unit 1: Introduction}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Unit 2: Bayes Theory Based Classifiers}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{Unit 3: Linear Classifiers}{5}{0}{2}
+\beamer@subsectionintoc {2}{4}{Unit 4: Nonlinear Classifiers}{6}{0}{2}
+\beamer@subsectionintoc {2}{5}{Unit 5: Clustering}{7}{0}{2}
+\beamer@sectionintoc {3}{Skills Acquired}{8}{0}{3}
+\beamer@sectionintoc {4}{Applications Explored}{9}{0}{4}

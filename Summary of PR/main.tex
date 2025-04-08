@@ -1,0 +1,219 @@
+\documentclass{beamer}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+\mode<presentation>
+
+%\newif\ifbeamer@secheader
+%\beamer@secheaderfalse
+
+%\DeclareOptionBeamer{secheader}{\beamer@secheadertrue}
+\ProcessOptionsBeamer
+
+\setbeamertemplate{navigation symbols}{} % Removes navigation buttons
+
+
+\useoutertheme[footline=authorinstitutetitle,subsection=false]{smoothbars}
+\makeatletter
+% Custom footline setup
+\newcommand{\frameofframes}{/}
+\newcommand{\setframeofframes}[1]{\renewcommand{\frameofframes}{#1}}
+
+\setbeamertemplate{footline} 
+{%
+    \begin{beamercolorbox}[colsep=1.5pt]{upper separation line foot}
+    \end{beamercolorbox}
+    \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+      leftskip=.3cm,rightskip=.3cm plus1fil]{author in head/foot}%
+      \leavevmode{\usebeamerfont{author in head/foot}\insertshortauthor}%
+      \hfill%
+      {\usebeamerfont{institute in head/foot}\usebeamercolor[fg]{institute in head/foot}\insertshortinstitute}%
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+      leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+      {\usebeamerfont{title in head/foot}\insertshorttitle}%
+      \hfill%
+      {\usebeamerfont{frame number}\usebeamercolor[fg]{frame number}\insertframenumber~\frameofframes~\inserttotalframenumber}
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[colsep=1.5pt]{lower separation line foot}
+    \end{beamercolorbox}
+    %\hfill \includegraphics[width=0.1\linewidth]{logo.jpg} % Add this line to include the logo
+}
+\makeatother
+
+% Theme settings
+\useinnertheme{circles}
+
+% Color customizations
+\xdefinecolor{shisu}{rgb}{0,0.384,0.675}  % RGB #82318E
+\setbeamercolor{footline}{bg=shisu}
+\setbeamercolor{frametitle}{bg=shisu,fg=white}
+\setbeamercolor{title}{bg=shisu}
+\setbeamerfont{frametitle}{size=\large}
+
+% Bibliography and caption settings
+\setbeamertemplate{bibliography item}[text]
+\setbeamertemplate{caption}[numbered]
+
+% Color palettes
+\setbeamercolor{palette primary}{use=structure,fg=white,bg=structure.fg}
+\setbeamercolor{palette secondary}{use=structure,fg=white,bg=structure.fg!75!black}
+\setbeamercolor{palette tertiary}{use=structure,fg=white,bg=structure.fg!50!black}
+\setbeamercolor{palette quaternary}{fg=white,bg=structure.fg!50!black}
+\setbeamercolor{titlelike}{parent=palette primary}
+
+% Block and sidebar colors
+\setbeamercolor{block title}{bg=shisu,fg=white}
+\setbeamercolor*{block title example}{use={normal text,example text},bg=white,fg=shisu}
+\setbeamercolor{item projected}{fg=white}
+\setbeamercolor{sidebar}{bg=shisu}
+\setbeamercolor{structure}{fg=shisu}
+
+% Section and subsection styling
+\setbeamercolor{section in sidebar}{fg=brown}
+\setbeamercolor{subsection in sidebar}{fg=brown}
+
+\iffalse
+% Table of contents at the start of sections/subsections
+\AtBeginSection[]{
+	\begin{frame}
+		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+	\end{frame}
+}
+\AtBeginSubsection[]{
+	\begin{frame}
+		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+	\end{frame}
+} 
+\fi
+
+% Add logo overlay in the bottom-right corner
+\addtobeamertemplate{background}{%
+    \begin{tikzpicture}[remember picture,overlay]
+        \node[anchor=south east,xshift= 4pt,yshift=15pt] at (current page.south east) {\includegraphics[width=0.1\linewidth]{logo.jpg}};
+    \end{tikzpicture}
+}
+
+
+\title{Pattern Recognition – Learning Summary \& Key Takeaways}
+\author{Gandholi Sarat}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Course Overview}
+\begin{frame}
+\frametitle{Course Overview}
+This course explored techniques in \textbf{Pattern Recognition}, focusing on:
+\begin{itemize}
+  \item Feature space partitioning
+  \item Bayes theory and classifiers
+  \item Linear and Nonlinear classifiers
+  \item Clustering and decision boundaries
+\end{itemize}
+\end{frame}
+
+\section{Unit-wise Summary}
+
+\subsection{Unit 1: Introduction}
+\begin{frame}
+\frametitle{Unit 1: Introduction }
+\begin{itemize}
+  \item Introduction to Pattern Recognition
+  \item Key concepts: features, classifiers
+  \item Learning types: Supervised, Unsupervised, Semi-supervised
+\end{itemize}
+\textbf{Takeaway:} Understanding of the data-to-decision pathway .
+\end{frame}
+
+\subsection{Unit 2: Bayes Theory Based Classifiers}
+\begin{frame}
+\frametitle{Unit 2: Bayes Classifiers}
+\begin{itemize}
+  \item Bayes Decision Theory, Discriminant Functions
+  \item MAP and ML Estimation
+  \item Naive Bayes Classifier, Bayesian Inference
+  \item Bayesian Networks
+\end{itemize}
+\textbf{Takeaway:} Probabilistic models for uncertain decision-making.
+\end{frame}
+
+\subsection{Unit 3: Linear Classifiers}
+\begin{frame}
+\frametitle{Unit 3: Linear Classifiers}
+\begin{itemize}
+  \item Linear Discriminant Functions
+  \item Perceptron Algorithm
+  \item Least Squares, SVMs (for separable and non-separable classes)
+\end{itemize}
+\textbf{Takeaway:} Linear models as fast, interpretable classifiers.
+\end{frame}
+
+\subsection{Unit 4: Nonlinear Classifiers}
+\begin{frame}
+\frametitle{Unit 4: Nonlinear Classifiers}
+\begin{itemize}
+  \item XOR Problem, MLPs, Backpropagation
+  \item Neural Networks
+  \item Decision Trees, Boosting
+  \item Class Imbalance Handling
+\end{itemize}
+\textbf{Takeaway:} Solving complex problems with nonlinear approaches.
+\end{frame}
+
+\subsection{Unit 5: Clustering}
+\begin{frame}
+\frametitle{Unit 5: Clustering}
+\begin{itemize}
+  \item Proximity Measures, Clustering Algorithms
+  \item Types: Hierarchical, Agglomerative, Divisive
+  \item Use Cases: Image segmentation, Customer segmentation
+\end{itemize}
+\textbf{Takeaway:} Unsupervised learning for pattern discovery.
+\end{frame}
+
+\section{Skills Acquired}
+\begin{frame}
+\frametitle{Skills Acquired}
+\begin{itemize}
+  \item Feature extraction and dimensionality reduction
+  \item Classifier selection and tuning
+  \item Probabilistic and neural methods
+  \item Real-world application of clustering
+\end{itemize}
+\end{frame}
+
+
+\section{Applications Explored}
+
+\begin{frame}{Applications Explored}
+
+    \begin{itemize}
+      \item \textbf{Breast Cancer Detection} \\
+      Implemented Support Vector Machines to classify tumors as benign or malignant using the Breast Cancer Wisconsin dataset, demonstrating the power of kernel methods and hyperparameter tuning in medical diagnostics. \\
+      \textit{Learned to balance model complexity and performance through kernel choice and parameter optimization.}
+    
+      \item \textbf{News Categorization} \\
+      Applied different variants of Naive Bayes classifiers to categorize articles from the 20 Newsgroups dataset. Explored text preprocessing and feature extraction techniques for effective natural language processing. \\
+      \textit{Learned the impact of data cleaning and representation on text classification accuracy.}
+      \end{itemize}
+\end{frame}
+\begin{frame}{Applications Explored}
+    \begin{itemize}
+      \item \textbf{Income Classification} \\
+      Used Logistic Regression on the Adult Census Income dataset to predict whether an individual earns more than \$50K/year. Employed regularization and model interpretability techniques to understand socioeconomic patterns. \\
+      \textit{Learned how regularization affects model coefficients and helps prevent overfitting.}
+    
+      \item \textbf{Biological and Chemical Classification} \\
+      Built Decision Trees to classify plant species (Iris dataset) and wine types (Wine dataset). Compared single-tree models with ensemble approaches like bagging to enhance prediction robustness and interpretability. \\
+      \textit{Learned how tree depth and ensemble methods influence model accuracy and generalization.}
+    \end{itemize}
+    
+\end{frame}
+    
+
+
+\end{document}
