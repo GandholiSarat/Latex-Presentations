@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {I}Objective}{2}{section.1}%
+\contentsline {section}{\numberline {II}Code Listing}{2}{section.2}%
+\contentsline {section}{\numberline {III}Code Output}{5}{section.3}%
+\contentsline {section}{\numberline {IV}Output comparison}{6}{section.4}%
+\contentsline {section}{\numberline {V}Function Descriptions}{6}{section.5}%
+\contentsline {subsection}{\numberline {V.I}hexTo32BitUnsigned}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {V.II}getOpcode}{6}{subsection.5.2}%
+\contentsline {subsection}{\numberline {V.III}getFlags}{6}{subsection.5.3}%
+\contentsline {subsection}{\numberline {V.IV}getAddressingMode}{6}{subsection.5.4}%
+\contentsline {subsection}{\numberline {V.V}getDispAddr}{7}{subsection.5.5}%
+\contentsline {subsection}{\numberline {V.VI}getFormat}{7}{subsection.5.6}%

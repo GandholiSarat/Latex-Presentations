@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {Q1}Write a sequence of instructions for SIC/XE to set ALPHA equal to 4*BETA - 9. Use immediate addressing for constants.}{2}{section.1}%
+\contentsline {section}{\numberline {Q2}Write SIC instruction to swap the values ALPHA and BETA.}{3}{section.2}%
+\contentsline {section}{\numberline {Q3}Draw parse trees according to the grammar for the following $\langle \exp \rangle $:}{4}{section.3}%
+\contentsline {section}{\numberline {Q4}Draw FSM to recognize a token type named \texttt {Real constant}.}{5}{section.4}%
+\contentsline {section}{\numberline {Q5}What are the different classes of interrupts and their corresponding types in SIC/XE architecture? Explain with code examples.}{6}{section.5}%
